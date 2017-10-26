@@ -1,0 +1,76 @@
+#corpo{
+	background-color: #F0F8FF;
+	background-attachment: fixed;
+	overflow-x: hidden;
+}
+.text-muted{
+	font-family: 'Heebo', sans-serif;
+	color: #B22222;
+}
+#produtos{	
+	padding-bottom: 75px;	
+}
+.carousel-indicators li{
+	background-color: grey;
+}
+.carousel-indicators .active{
+	background-color: black;
+}
+.carousel-control-next-icon{
+	background-image: url(../img/proximo.png);
+}
+.carousel-control-prev-icon{
+	background-image: url(../img/anterior.png);
+}
+#promocoes{
+	background: lightgrey;
+}
+
+.d-block{
+	align-items: center;
+	margin: 20px auto 20px auto;
+	padding-bottom: 100px;
+
+}
+.carousel-caption{
+	color: black;
+}
+#segunda-secao{
+	background: url(../img/image18.png);
+	background-attachment: fixed;
+}
+#primeiro-rodape{
+	background-color: #212529;
+	padding:25px 10px 25px 10px;
+}
+#segundo-rodape{
+	background-color: #000;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	color: #fff;
+	text-align: center;
+	font-size: 15px;
+
+}
+.redes-sociais{
+	width: 50px;
+	height: 50px;
+}
+.div-primeiro-rodape{
+	color: white;
+	font-family: 'Heebo', sans-serif;
+}
+.div-segundo-rodape{
+	text-align: right;
+	padding-right: 20px;
+}
+.navbar{
+	background-image: linear-gradient(to bottom, #EFE0E0 0%,#eee 100%);
+	border-bottom: 1px solid #c5aeae;
+}
+.rounded {
+    border-radius: 0px;
+}
+.w-50{
+	width: 25% !important;
+}
