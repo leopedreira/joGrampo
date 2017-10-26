@@ -1,0 +1,29 @@
+{
+  "name": "jogrampo",
+  "version": "1.0.0",
+  "description": "Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopedreira/joGrampo.git"
+  },
+  "keywords": [
+    "site",
+    "jogrampo"
+  ],
+  "author": "Leonardo Carlos Pedreira <leonardo.lcp2005@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leopedreira/joGrampo/issues"
+  },
+  "homepage": "https://github.com/leopedreira/joGrampo#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}
