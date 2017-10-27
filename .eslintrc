@@ -1,6 +1,6 @@
 { 
- “extends”: “airbnb”,
- “env”: {
-   “jQuery”: true
+ ï¿½extendsï¿½: ï¿½airbnbï¿½,
+ ï¿½envï¿½: {
+   ï¿½jQueryï¿½: true
  }
-}
+} "extends": "airbnb"

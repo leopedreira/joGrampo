@@ -1,3 +1,2 @@
-var a = 5;
-var b;
+const a = 5
 console.log(a);
